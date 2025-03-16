@@ -1,0 +1,39 @@
+.navbar {
+    background-color: #fffffff1;
+    padding: 10px 30px;
+}
+.navbar .logo {
+    display: flex;
+    align-items: center;
+}
+.navbar .logo img {
+    height: 100px;
+    margin-block-middle: 10px;
+}
+.navbar .logo-text {
+    font-size: 24px;
+    color: rgb (2, 15, 21) ;
+    text-decoration: none;
+}
+.navbar .logo-text span {
+    font-size: 12px;
+    font-weight: normal;
+    display: block;
+}
+.navbar .nav-links {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+.navbar .nav-links li {
+    margin-left: 20px;
+}
+.navbar .nav-links a {
+    color: rgb(48, 34, 208);
+    text-decoration: none;
+    font-size: 18px;
+}
+.navbar .nav-links a:hover {
+    text-decoration: underline;
+}
