@@ -50,13 +50,13 @@
 }
 .navbar .logo {
     display: flex;
-    align-items:center;
+    align-items:Right;
     margin-right: 10px;
 }
 .navbar .logo img {
-    height: 100px;
+    height: 90px;
     width:110px;
-    margin-left: 10px;
+    margin-left: 5px;
 }
 .navbar .logo-text {
     font-size: 20px;
