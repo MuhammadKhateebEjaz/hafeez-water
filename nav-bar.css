@@ -61,7 +61,7 @@
 .navbar .logo-text {
     font-size: 10px;
     color: rgb (2, 15, 21) ;
-    text-decoration: relative;
+    text-decoration:attached-logo;
 }
 .navbar .logo-text span {
     font-size: 10px;
