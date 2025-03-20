@@ -59,9 +59,9 @@
     margin-right: 0 px;
 }
 .navbar .logo-text {
-    font-size: 20px;
+    font-size: 10px;
     color: rgb (2, 15, 21) ;
-    text-decoration: none;
+    text-decoration: relative;
 }
 .navbar .logo-text span {
     font-size: 10px;
