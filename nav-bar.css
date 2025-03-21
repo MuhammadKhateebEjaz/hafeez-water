@@ -73,10 +73,10 @@
     display: flex;
     margin: 0;
     padding: 0;
-}
+/* }
 .navbar .nav-links li {
     margin-left: 20px;
-}
+} */
 .navbar .nav-links a {
     color: rgb(48, 34, 208);
     text-decoration: none;
