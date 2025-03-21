@@ -50,8 +50,8 @@
 }
 .navbar .logo {
     display: flex;
-    align-items:center;
-    margin-right:0 px;
+    align-items:start;
+    margin-left:0 px;
 }
 .navbar .logo img {
     height: 90px;
