@@ -50,7 +50,7 @@
 }
 .navbar .logo {
     display: flex;
-    align-items:start;
+    align-items:justify-contact;
     margin-left:0 px;
 }
 .navbar .logo img {
