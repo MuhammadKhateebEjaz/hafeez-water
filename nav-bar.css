@@ -56,7 +56,7 @@
 .navbar .logo img {
     height: 90px;
     width:150px;
-    padding: 20px;
+    padding:0px;
 }
 .navbar .logo-text {
     font-size: 20px;
