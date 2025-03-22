@@ -51,12 +51,12 @@
 .navbar .logo {
     display: flex;
     align-items:center;
-
+    
 }
 .navbar .logo img {
     height: 90px;
     width:150px;
-    margin-bottom: 10 px;
+    margin-bottom: 10%;
 }
 .navbar .logo-text {
     font-size: 20px;
