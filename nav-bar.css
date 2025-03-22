@@ -56,12 +56,12 @@
 .navbar .logo img {
     height: 90px;
     width:150px;
-    padding: 0px;
+    padding: 100px;
 }
 .navbar .logo-text {
     font-size: 20px;
     color: rgb (12,13,15);
-    text-decoration:center;
+    text-decoration:none;
 }
 .navbar .logo-text span {
     font-size: 10px;
