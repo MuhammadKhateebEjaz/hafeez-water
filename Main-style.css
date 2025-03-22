@@ -5,7 +5,7 @@ body {
 
 }
 .hero {
-    background-image: linear-gradient (15b2dd,#15b2dd );
+     background: linear-gradient(45deg,  #1756d3, #1756d3);
   
     text-align: center;
 }
