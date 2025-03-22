@@ -63,6 +63,7 @@
     color: rgb (12,13,15) ;
     text-decoration:none;
     margin-bottom:center;
+     margin-bottom: 10px;
 }
 .navbar .logo-text span {
     font-size: 10px;
