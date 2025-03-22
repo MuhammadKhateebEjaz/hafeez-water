@@ -1,4 +1,4 @@
-/* .navbar {
+.navbar {
     background-color: #fffffff1;
     padding: 0px
 }
@@ -38,13 +38,13 @@
 .navbar .nav-links a:hover {
     text-decoration: underline;
 }
- */
+ 
 
 
 
 
 
-.navbar {
+/* .navbar {
     background-color: #fffffff1;
     padding: 10px
 }
@@ -86,7 +86,7 @@
 .navbar .nav-links a:hover {
     text-decoration: underline;
 }
- 
+  */
 
 
 
